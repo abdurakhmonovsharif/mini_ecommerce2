@@ -1,6 +1,6 @@
 # Maltimart Ecommerce
 
-## 📌 Live Demo
+# https://mini-eccommerce.netlify.app/# 📌 Live Demo
 
 
 ## 😎 Features
